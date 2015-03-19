@@ -1,0 +1,25 @@
+{
+  "name": "npx-music-visualizer",
+  "version": "1.0.0",
+  "description": "Neopixel music visualizer. Color based on chord; number lit based on volume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/npx-music-visualizer.git"
+  },
+  "keywords": [
+    "tessel",
+    "neopixel",
+    "music",
+    "visualizer"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frijol/npx-music-visualizer/issues"
+  },
+  "homepage": "https://github.com/Frijol/npx-music-visualizer"
+}
